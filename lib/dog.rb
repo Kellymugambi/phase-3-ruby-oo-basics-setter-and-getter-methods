@@ -17,3 +17,7 @@ class Dog
     end
 
 end
+
+dog1 = Dog.new
+dog1.name = "Simba"
+puts dog1.name
